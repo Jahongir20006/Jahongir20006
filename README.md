@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jahongir20006
+- 👋 Hi, I’m Uilliam
 - 👀 I’m interested in Campyuters
 - 🌱 I’m currently learning nowhere
 - 💞️ I’m looking to collaborate on with people involved in programming
